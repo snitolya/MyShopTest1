@@ -42,3 +42,15 @@ background: rgb(156, 156, 156);
 border:2px solid rgb(156, 156, 156) ;
 
 }
+.product-card{
+    display: flex;
+    width: 900px;
+}
+.product-card_info_title{
+    display: flex;
+    justify-content: space-between;
+}
+.product-card_info{
+    width: 100%;
+
+}
